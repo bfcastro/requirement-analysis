@@ -37,7 +37,7 @@ Scope definition: Helps define system boundaries (what’s in scope vs out of sc
 Requirement validation: Ensures all user needs are captured.
 Communication tool: Bridges technical teams and non-technical stakeholders.
 Foundation for design/testing: Each use case can become a test scenario or feature task.
-alx-booking-uc.png
+requirement-analysis/alx-booking-uc.png
 
 #Acceptance Criteria.
 Acceptance Criteria (AC) are the conditions that a software product must satisfy for a requirement (or user story) to be considered complete and accepted by stakeholders. They act as a bridge between requirements and testing, ensuring clarity for developers, testers, and business stakeholders.
